@@ -1,2 +1,3 @@
 # Sample_git
-just for learning 
+just for learning
+Hi Git...
